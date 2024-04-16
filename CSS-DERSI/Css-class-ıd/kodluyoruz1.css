@@ -1,0 +1,42 @@
+/********************Layout****************/
+
+/* class -> .tex-red/{} ile gösterilir*/
+/* class ı birçok yerde tanımlıyabiliriz. */
+/* id -> #id-bilgisi {} ile gösterilir. */
+/* id kimlik no gibidir tek kullanımlıktır verdiğimiz id yi başka birine veremeyiz, */
+/* css de birden fazla kelime varsa aralarına- işareti konur. */
+
+
+/* Bu kullanım bütün başlıklara etki edebilmesi için aralarına virgül kullanarak yazılır. */
+h1,h2,h3,h4,h5,h6{
+    color: #202020;
+}
+
+
+
+p{font-size: 20px;}
+
+
+
+/*****************Id örneği******************* */
+#first-article{       
+    font-size: 40px;
+}
+
+
+/* **************Class örneği*******************/
+.text-red {
+    color: red;
+}
+
+
+
+.fs-14{
+    font-size: 14px;
+}
+
+
+
+.fs-30{
+    font-size: 30px;
+}

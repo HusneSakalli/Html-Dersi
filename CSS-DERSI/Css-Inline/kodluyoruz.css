@@ -1,0 +1,18 @@
+body{
+       background-color:aqua; /*arka plan rengini ayarlar.*/
+       font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /*yazının özelliklerini ayarlıyor.*/
+}
+
+h2 {
+       color:rgb(255, 0, 4);
+       font-size:60px;
+       text-transform: uppercase; /* bu özellik bütün harflerin büyük yazılmasını sağlar*/
+}
+p{
+       color:dark;
+       font-size:30px;
+}
+ul{
+       color: blueviolet;
+       font-size: 20px;
+}
